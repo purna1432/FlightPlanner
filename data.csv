@@ -1,0 +1,8 @@
+From,To,Distance,Travel Time,Airfare,
+ Delhi,Mumbai,1148,02:10,6000,
+ Delhi,Banglore,1740,03:20,8000,
+ Delhi,Kolkata,1305,02:40,7000,
+ Mumbai,Banglore,850,01:40,4000,
+ Mumbai,Kolkata,1652,02:30,6000,
+ Mumbai,Pune,118,00:45,2000,
+ Banglore,Kolkata,1800,03:45,8000,
